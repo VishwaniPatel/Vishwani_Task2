@@ -14,3 +14,4 @@ This project is a simple HTML webpage for a laundry service.
 Open index.html in any browser.
 
 ## Live Demo
+https://vishwanipatel.github.io/Vishwani_Task2/
